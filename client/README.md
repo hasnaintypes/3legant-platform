@@ -80,7 +80,7 @@ Modern e-commerce frontend built with React, Vite, and Tailwind CSS, featuring a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/3legant.git
+   git clone https://github.com/Nainee99/3legant.git
    ```
 
 2. Navigate to the client directory:
