@@ -1,0 +1,9 @@
+export { default as AdminDashboardPage } from "./page";
+export { default as AddProduct } from "./products/add-product/page";
+export { default as AllProducts } from "./products/all-product/_components/all-products";
+export { default as CategoriesPages } from "./products/cateory/page";
+export { default as InventoryPage } from "./products/inventory/page";
+export { default as BlogPage } from "./content/blogs/page";
+export { default as ContentPagesPage } from "./content/pages/page";
+export { default as AllCustomers } from "./customers/all-customers/page";
+export { default as CustomerDetailsPage } from "./customers/customer-details/page";

@@ -1,0 +1,9 @@
+export { default as LandingPage } from "./page";
+export { default as ProductsPage } from "./products/page";
+export { default as ProductDetailPage } from "./product/page";
+export { default as CartPage } from "./cart/page";
+export { default as CheckoutPage } from "./checkout/page";
+export { default as ProfilePage } from "./profile/page";
+export { default as SettingsPage } from "./settings/page";
+export { default as OrdersPage } from "./orders/page";
+export { default as WishlistPage } from "./wishlist/page";
